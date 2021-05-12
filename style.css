@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=ZCOOL+KuaiLe&display=swap');
+
+
+body {
+	background-image: url("https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?size=626&ext=jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1 {
+	font-family: 'ZCOOL KuaiLe', cursive;
+        color: rgb(255, 0, 68);
+}
+
+p {
+	color: rgb(168, 50, 68);
+	font-family: verdana;
+	font-size: 20px;
+        text-align: justify;
+}
+
+.container {
+        border: 5px solid #327da8;
+        border-radius: 15px;
+}
+
+a:link {
+        font-family: 'ZCOOL KuaiLe', cursive;
+        color: blue;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:active {
+	color: tomato;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: Dodgerblue;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: gold;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+footer{
+        text-align:center;
+}
